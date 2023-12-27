@@ -1,4 +1,4 @@
-A system that first summarizes the crime, clusters it and predicts sections of the constitution and ranks in increasing order of probability (probabilistic model)
+A system that first summarizes the crime, clusters it and predicts sections of the constitution and ranks in increasing order of probability (probabilistic model).
 
 Lab Project: Predicting Article no. of the criminal case
 
